@@ -1,5 +1,5 @@
 
-# Using Predictive Manchine Learning To Model Optimisize Agricultural Production
+# Using Predictive Manchine Learning Model To Optimisize Agricultural Production
 
  
 In this project, we are going to Build a predictive model that will suggest the most suitable crops to grow based on the available climatic and soil conditions.
